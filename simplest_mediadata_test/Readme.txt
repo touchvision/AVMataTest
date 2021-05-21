@@ -1,19 +1,13 @@
-×î¼òµ¥µÄÊÓÒôÆµÊý¾Ý´¦ÀíÊ¾Àý
+æœ€ç®€å•çš„è§†éŸ³é¢‘æ•°æ®å¤„ç†ç¤ºä¾‹
 Simplest MediaData Test
 
-À×Ïöæè Lei Xiaohua
-leixiaohua1020@126.com
-ÖÐ¹ú´«Ã½´óÑ§/Êý×ÖµçÊÓ¼¼Êõ
-Communication University of China / Digital TV Technology
-http://blog.csdn.net/leixiaohua1020
-
-±¾ÏîÄ¿°üº¬ÈçÏÂ¼¸ÖÖÊÓÒôÆµÊý¾Ý½âÎöÊ¾Àý£º
- (1)ÏñËØÊý¾Ý´¦Àí³ÌÐò¡£°üº¬RGBºÍYUVÏñËØ¸ñÊ½´¦ÀíµÄº¯Êý¡£
- (2)ÒôÆµ²ÉÑùÊý¾Ý´¦Àí³ÌÐò¡£°üº¬PCMÒôÆµ²ÉÑù¸ñÊ½´¦ÀíµÄº¯Êý¡£
- (3)H.264ÂëÁ÷·ÖÎö³ÌÐò¡£¿ÉÒÔ·ÖÀë²¢½âÎöNALU¡£
- (4)AACÂëÁ÷·ÖÎö³ÌÐò¡£¿ÉÒÔ·ÖÀë²¢½âÎöADTSÖ¡¡£
- (5)FLV·â×°¸ñÊ½·ÖÎö³ÌÐò¡£¿ÉÒÔ½«FLVÖÐµÄMP3ÒôÆµÂëÁ÷·ÖÀë³öÀ´¡£
- (6)UDP-RTPÐ­Òé·ÖÎö³ÌÐò¡£¿ÉÒÔ½«·ÖÎöUDP/RTP/MPEG-TSÊý¾Ý°ü¡£
+æœ¬é¡¹ç›®åŒ…å«å¦‚ä¸‹å‡ ç§è§†éŸ³é¢‘æ•°æ®è§£æžç¤ºä¾‹ï¼š
+ (1)åƒç´ æ•°æ®å¤„ç†ç¨‹åºã€‚åŒ…å«RGBå’ŒYUVåƒç´ æ ¼å¼å¤„ç†çš„å‡½æ•°ã€‚
+ (2)éŸ³é¢‘é‡‡æ ·æ•°æ®å¤„ç†ç¨‹åºã€‚åŒ…å«PCMéŸ³é¢‘é‡‡æ ·æ ¼å¼å¤„ç†çš„å‡½æ•°ã€‚
+ (3)H.264ç æµåˆ†æžç¨‹åºã€‚å¯ä»¥åˆ†ç¦»å¹¶è§£æžNALUã€‚
+ (4)AACç æµåˆ†æžç¨‹åºã€‚å¯ä»¥åˆ†ç¦»å¹¶è§£æžADTSå¸§ã€‚
+ (5)FLVå°è£…æ ¼å¼åˆ†æžç¨‹åºã€‚å¯ä»¥å°†FLVä¸­çš„MP3éŸ³é¢‘ç æµåˆ†ç¦»å‡ºæ¥ã€‚
+ (6)UDP-RTPåè®®åˆ†æžç¨‹åºã€‚å¯ä»¥å°†åˆ†æžUDP/RTP/MPEG-TSæ•°æ®åŒ…ã€‚
 
 This project contains following samples to handling multimedia data:
  (1) Video pixel data handling program. It contains several examples to handle RGB and YUV data.
